@@ -1,0 +1,31 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"Base16 Color Schemes",
+		"BracketHighlighter",
+		"ChangeQuotes",
+		"ColorPicker",
+		"Dracula Color Scheme",
+		"EditorConfig",
+		"Emmet",
+		"FindKeyConflicts",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"Modific",
+		"Railscasts Extended",
+		"Sass",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"Solarized Color Scheme",
+		"SublimeLinter",
+		"SublimeLinter-ruby",
+		"SublimeREPL",
+		"Terminal",
+		"Theme - Flatland",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"Trimmer"
+	]
+}

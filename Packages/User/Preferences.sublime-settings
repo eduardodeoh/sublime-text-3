@@ -1,0 +1,85 @@
+{
+	"auto_complete": true,
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_delay": 50,
+	"auto_complete_selector": "source - comment",
+	"auto_complete_size_limit": 4194304,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		}
+	],
+	"auto_complete_with_fields": false,
+	"bold_folder_labels": true,
+	"caret_extra_width": 1,
+	"caret_style": "smooth",
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Railscasts Extended/Railscasts Extended.tmTheme",
+	"color_scheme_": "Packages/User/Monokai (SL).tmTheme",
+	"copy_with_empty_selection": false,
+	"default_encoding": "UTF-8",
+	"default_line_ending": "system",
+	"drag_text": false,
+	"draw_centered": false,
+	"draw_indent_guides": true,
+	"draw_minimap_border": true,
+	"draw_white_space": "all",
+	"enable_tab_scrolling": false,
+	"fade_fold_buttons": false,
+	"fallback_encoding": "UTF-8",
+	"font_face": "source code pro medium",
+	"font_options":
+	[
+		"no_round",
+		"subpixel_antialias"
+	],
+	"font_size": 16,
+	"gutter": true,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": "true",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_subsequent_lines": true,
+	"line_numbers": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"match_brackets": true,
+	"match_brackets_braces": true,
+	"match_brackets_content": true,
+	"match_brackets_square": true,
+	"match_tags": true,
+	"open_files_in_new_window": false,
+	"overlay_scroll_bars": "enabled",
+	"preview_on_click": true,
+	"remember_open_files": true,
+	"reveal-on-activate": true,
+	"rulers":
+	[
+		80
+	],
+	"save_on_focus_lost": false,
+	"scroll_past_end": true,
+	"scroll_speed": 5.0,
+	"show_full_path": false,
+	"sidebar_default": true,
+	"sidebar_small": true,
+	"tab_completion": true,
+	"tab_size": 2,
+	"tabs_medium": false,
+	"tabs_small": true,
+	"theme": "Spacegray.sublime-theme",
+	"theme_": "predawn.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true,
+	"wide_caret": true,
+	"word_separators": "./\\()\"'-:,.;<>~@#%^&*|+=[]{}`~",
+	"word_separators_def": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",
+	"word_wrap": true,
+	"wrap_width": 80
+}
